@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning **Python, AI Tools, and Excel Automation**
 - 👨‍💻 I’m looking for an **internship opportunity**
-- 📫 How to reach me: **yourmail@example.com**
-- 📄 Know more about me [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📫 How to reach me: **priyanshijoshi9211@gmail.com**
+
 
 ---
 
